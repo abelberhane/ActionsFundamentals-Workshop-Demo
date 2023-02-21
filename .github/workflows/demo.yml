@@ -4,7 +4,7 @@ on:
 jobs:
   do-things:
     name: Do Things
-    runs-on: paylocity-demo
+    runs-on: self-hosted
     steps:
       - name: The Thing I've Done
         run: echo "I've done a thing!" 
