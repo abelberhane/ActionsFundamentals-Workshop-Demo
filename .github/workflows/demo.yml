@@ -1,6 +1,6 @@
 name: Basic Workflow
 on:
-  push:
+  pull:
 jobs:
   do-things:
     name: Do Things
